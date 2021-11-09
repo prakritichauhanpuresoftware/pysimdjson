@@ -1,6 +1,6 @@
 on: push
 
-name: Create release
+name: Create release.
 
 jobs:
   build:
